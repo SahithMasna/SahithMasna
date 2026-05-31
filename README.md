@@ -7,7 +7,8 @@
 🚀 Open Source • 🤖 AI/ML • 💻 Developer • 🎓 BTech CSE
 </h3>
 
-font=JetBrains+Mono&weight=700&size=28&pause=1000&color=BF91F3&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Universe+🌌;GSSoC+2026+Contributor+🚀;AI+%26+ML+Explorer+🤖;Building+Projects+⚡;Learning+Every+Single+Day+🌱;Future+Software+Engineer+💻" />
+<p align="center">
+🌌 Building the future, one commit at a time.
 </p>
 
 <p align="center">
