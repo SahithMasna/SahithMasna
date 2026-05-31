@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Sahith Masna
 
-<!--
-**SahithMasna/SahithMasna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 GSSoC 2026 Contributor
 
-Here are some ideas to get you started:
+🎓 BTech CSE (AI & ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Open Source
+- AI & Machine Learning
+- Data Structures & Algorithms
+- Web Development
+
+## 🎯 Goals for 2026
+
+- Make meaningful open-source contributions
+- Build AI/ML projects
+- Improve problem-solving skills
+- Learn Full Stack Development
+
+## 💻 Tech Stack
+
+- C++
+- Python
+- Git & GitHub
+- HTML
+- CSS
+
+## 🚀 GSSoC 2026
+
+Excited to contribute to open-source projects, learn from maintainers, and collaborate with developers worldwide.
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/SahithMasna
+
+---
+
+⭐ Thanks for visiting my profile!
