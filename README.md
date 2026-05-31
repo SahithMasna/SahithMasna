@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahith Masna</h1>
-<h3 align="center">🚀 GSSoC 2026 Contributor | BTech CSE (AI & ML)</h3># Hi 👋, I'm Sahith Masna
+<h3 align="center">🚀 GSSoC 2026 Contributor | BTech CSE (AI & ML)</h3>
+Hi 👋, I'm Sahith Masna
 
 🚀 GSSoC 2026 Contributor
 
