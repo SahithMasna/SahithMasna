@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 <h1 align="center">⚡ S A H I T H • M A S N A ⚡</h1>
 
 <h3 align="center">
