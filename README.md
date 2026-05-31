@@ -1,124 +1,227 @@
-<h1 align="center">Hi 👋, I'm Sahith Masna</h1>
+<h1 align="center">⚡ S A H I T H • M A S N A ⚡</h1>
 
 <h3 align="center">
-🚀 GSSoC 2026 Contributor | 🎓 BTech CSE (AI & ML)
+🚀 Open Source • 🤖 AI/ML • 💻 Developer • 🎓 BTech CSE
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=GSSoC+2026+Contributor;AI+%26+ML+Student;Open+Source+Enthusiast;Learning+%26+Building+Every+Day;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=BF91F3&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Universe+🌌;GSSoC+2026+Contributor+🚀;AI+%26+ML+Explorer+🤖;Building+Projects+⚡;Learning+Every+Single+Day+🌱;Future+Software+Engineer+💻" />
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 BTech CSE (AI & ML)
-- 🚀 GSSoC 2026 Contributor
-- 🌱 Currently learning Open Source, AI/ML, DSA & Web Development
-- 💡 Passionate about building projects and solving problems
-- 🎯 Goal: Become a skilled Software Engineer and Open Source Contributor
-- 📍 Hyderabad, India
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,html,css,vscode" />
-
-</p>
-
----
-
-## 🚀 GSSoC 2026 Journey
-
-```text
-🎯 Goal: Make meaningful open-source contributions
-
-✅ Selected as GSSoC 2026 Contributor
-🔄 Preparing for contributions
-🚀 Learning Git & GitHub workflows
-```
-
-### Current Objectives
-
-- Contribute to Open Source Projects
-- Improve Development Skills
-- Collaborate with Developers
-- Build Strong GitHub Profile
-- Learn Industry Workflows
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahithMasna&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahithMasna&layout=compact&theme=tokyonight"/>
-
+<img src="https://komarev.com/ghpvc/?username=SahithMasna&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
 
-## 🔥 GitHub Streak
+# 🌌 SYSTEM.LOG
 
-<p align="center">
+```yaml
+Name: Sahith Masna
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahithMasna&theme=tokyonight" />
+Status: Online 🟢
 
-</p>
+Role:
+  - BTech CSE (AI & ML)
+  - Open Source Contributor
+  - AI Enthusiast
 
----
+Location:
+  Hyderabad, India 🇮🇳
 
-## 🎯 2026 Goals
+Current Mission:
+  Learn → Build → Contribute → Grow
 
-- ✅ Participate in GSSoC
-- 🔄 Make 20+ Pull Requests
-- 🔄 Build AI/ML Projects
-- 🔄 Learn Full Stack Development
-- 🔄 Strengthen DSA Skills
-- 🔄 Grow GitHub Contributions
-
----
-
-## 🌱 Currently Learning
-
-- Open Source Contribution
-- Git & GitHub
-- Data Structures & Algorithms
-- Artificial Intelligence
-- Machine Learning
-- Web Development
-
----
-
-## 📈 Contribution Mindset
-
-```text
-Learn → Build → Contribute → Improve → Repeat
+Mode:
+  Student + Builder + Explorer
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&color=gradient"/>
 
-## 🤝 Let's Connect
+# 💻 TECH ARSENAL
 
-<p align="left">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,html,css,vscode,linux" />
+</p>
+
+<div align="center">
+
+⚡ Languages • Tools • Technologies ⚡
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient"/>
+
+# 🏆 ACHIEVEMENT VAULT
+
+🚀 GSSoC 2026 Contributor
+
+☁️ Oracle Cloud Infrastructure AI Foundations Associate
+
+🤖 AWS – Introduction to Generative AI
+
+🧠 Google Coursera – Introduction to AI
+
+💡 HP LIFE Foundation – AI for Beginners
+
+🌟 Google AI Studio Fundamentals
+
+🎯 Techfest IIT Bombay – College Ambassador
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&color=gradient"/>
+
+# ⚔️ CODING ARENA
+
+```text
+🧠 LeetCode     → Sahith Masna
+
+🍜 CodeChef     → sahith_0904
+
+💛 HackerRank   → Sahith_0904
+```
+
+### 🎯 Current Focus
+
+```diff
++ Data Structures & Algorithms
+
++ Artificial Intelligence
+
++ Machine Learning
+
++ Open Source Contributions
+
++ Software Development
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient"/>
+
+# 🚀 OPEN SOURCE QUEST
+
+```diff
++ Selected as GSSoC 2026 Contributor
+
++ Learning Git & GitHub
+
++ Exploring Open Source Projects
+
++ Building Public Portfolio
+
+! Objective:
+→ Make Meaningful Contributions
+→ Collaborate with Developers
+→ Learn Industry Workflows
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&color=gradient"/>
+
+# 🧪 AI LAB
+
+```text
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+⚡ Generative AI
+
+☁️ Cloud AI Foundations
+
+🔬 Exploring Emerging Technologies
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient"/>
+
+# 🎮 QUEST LOG : 2026
+
+### Main Quest
+
+* [x] Earn AI Certifications
+* [x] Become Techfest Ambassador
+* [x] Join GSSoC 2026
+* [ ] Complete GSSoC Successfully
+* [ ] Build AI/ML Projects
+* [ ] Create Portfolio Website
+* [ ] Strengthen DSA
+* [ ] Become Industry Ready
+
+### Side Quests
+
+* [ ] Contribute Regularly on GitHub
+* [ ] Learn Full Stack Development
+* [ ] Build Public Projects
+* [ ] Grow Coding Profiles
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&color=gradient"/>
+
+# 📚 CURRENT KNOWLEDGE TREE
+
+```text
+🌱 Learning
+
+├── Git & GitHub
+├── Open Source
+├── DSA
+├── AI
+├── Machine Learning
+└── Web Development
+
+⚡ Building
+
+├── GitHub Profile
+├── Coding Skills
+└── Project Portfolio
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient"/>
+
+# 💭 DEVELOPER PHILOSOPHY
+
+```python
+while alive:
+
+    learn()
+
+    build()
+
+    fail()
+
+    improve()
+
+    repeat()
+```
+
+> ⚡ Consistency beats intensity.
+
+> 🚀 Small progress every day compounds into massive growth.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&color=gradient"/>
+
+# 🤝 CONNECT
+
+<p align="center">
 
 <a href="https://github.com/SahithMasna">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL_HERE">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+<h3 align="center">
+
+⚡ BUILD • LEARN • CONTRIBUTE ⚡
+
+</h3>
+
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+🌌 See you in the commit history.
 
-🚀 Building, Learning and Growing Every Day
+💜 Thanks for visiting my profile.
 
 </p>
