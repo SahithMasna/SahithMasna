@@ -204,7 +204,7 @@ while alive:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="[YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/sahith-masna-4007a9369?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
