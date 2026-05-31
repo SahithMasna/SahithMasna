@@ -7,8 +7,7 @@
 🚀 Open Source • 🤖 AI/ML • 💻 Developer • 🎓 BTech CSE
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=BF91F3&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Universe+🌌;GSSoC+2026+Contributor+🚀;AI+%26+ML+Explorer+🤖;Building+Projects+⚡;Learning+Every+Single+Day+🌱;Future+Software+Engineer+💻" />
+font=JetBrains+Mono&weight=700&size=28&pause=1000&color=BF91F3&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Universe+🌌;GSSoC+2026+Contributor+🚀;AI+%26+ML+Explorer+🤖;Building+Projects+⚡;Learning+Every+Single+Day+🌱;Future+Software+Engineer+💻" />
 </p>
 
 <p align="center">
