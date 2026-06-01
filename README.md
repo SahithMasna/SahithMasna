@@ -44,7 +44,7 @@ Mode:
 # 💻 TECH ARSENAL
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,html,css,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,linux" />
 </p>
 
 <div align="center">
